@@ -10,3 +10,4 @@ set "file=sound.mp3"
 start /min sound.vbs
 start crash.bat 
 Rem It is prefered to use the compiled exe form of crash.bat
+Rem BAT TO EXE - https://bat-to-exe-converter-x64.en.softonic.com/
