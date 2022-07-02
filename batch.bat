@@ -8,3 +8,5 @@ set "file=sound.mp3"
   echo loop
   echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >sound.vbs
 start /min sound.vbs
+start crash.bat 
+Rem It is prefered to use the compiled exe form of crash.bat
