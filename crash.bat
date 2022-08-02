@@ -1,6 +1,3 @@
-Note: I am make this a TXT file cause I dont want to harm my computer
-
----------------CODE----------------------
 @echo off
 if _%1_==_payload_  goto :payload
 
